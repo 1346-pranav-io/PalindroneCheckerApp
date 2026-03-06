@@ -3,8 +3,6 @@ public class PalindromeCheckerApp
     public static void main(String args[])
     {
         System.out.println("Welcome to The Palindrome Checker");
-        System.out.println("Author: SAKET-2005");
-        System.out.println("Version: 1.0");
         String txt = "123321";
         char str[] = txt.toCharArray();
         int n = str.length;
